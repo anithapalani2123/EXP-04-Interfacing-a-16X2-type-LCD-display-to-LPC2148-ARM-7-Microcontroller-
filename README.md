@@ -1,13 +1,8 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 
-Name :
+Name : ANITHA P
 
-Roll no :
-
-Date of experiment :
-
- 
-
+Roll no : 212221240004
 
 ## Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller 
 
